@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: sahil7879/python-app
+  repository: sahiljangra/python-app
   pullPolicy: IfNotPresent
   tag: ed7159
 imagePullSecrets: []
