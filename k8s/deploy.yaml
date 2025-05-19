@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: sahiljangrapython-app:v2
+        image: sahiljangra/python-app:v2
         ports:
         - containerPort: 5000
