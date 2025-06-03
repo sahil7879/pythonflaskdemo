@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: sahil7879/python-app
     backstage.io/techdocs-ref: dir:.
-    jenkins.io/job-full-name: 'pythondemo'
+    jenkins.io/job-full-name: 'workspace/pythondemo'
 spec:
   type: service
   owner: developer
