@@ -12,4 +12,4 @@ spec:
   owner: developer
   lifecycle: experimental
   dependsOn:
-    - component: flasktime
+    - component:default/flasktime
