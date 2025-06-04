@@ -11,4 +11,4 @@ spec:
   type: service
   owner: developer
   lifecycle: experimental
-  dependecies: 
+  dependecies: flasktime
